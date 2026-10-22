@@ -26,6 +26,7 @@ git status
 c:\Users\HomePC\Pictures\Screenshots\git status.png
 
 #git add and git commit
+c:\Users\HomePC\Pictures\Screenshots\git add,commit.png
 
 #GIT COMMIT HISTORY
 Write-Host "`n--- COMMIT HISTORY ---" -ForegroundColor Cyan
