@@ -33,10 +33,10 @@ git config user.email $gitEmail
 
 git add index.html
 git commit -m "Initial commit: add HTML page"
-if ($LASTEXITCODE -ne 0) { throw "First commit failed." }
+
 
 # Commit 2: Update the HTML page
-Add-Content -Encoding utf8 index.html '    <p>I am learning Git basics and version control.</p>'
+   '
 
 git add index.html
 git commit -m "Update page with learning goals"
