@@ -5,6 +5,7 @@ Open the terminal in the project folder.[cite: 4]
 Run git init.[cite: 4]
 
 
+
 Create an HTML file.[cite: 4]
 Use git status, git add, and git commit.[cite: 4]
 Make at least 3 meaningful commits.[cite: 4] Submission: Screenshots of the repository folder and the history of three commits.[cite: 4]

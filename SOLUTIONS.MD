@@ -40,7 +40,7 @@ git commit -m "Initial commit: add HTML page"
 
 git add index.html
 git commit -m "Update page with learning goals"
-if ($LASTEXITCODE -ne 0) { throw "Second commit failed." }
+
 
 # Commit 3: Add project documentation
 @'
