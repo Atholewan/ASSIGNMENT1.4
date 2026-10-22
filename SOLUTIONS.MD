@@ -10,7 +10,7 @@ To learn basic Git commands for initializing a repository, configuring user deta
 ```
 git --version
 ```
-c:\Users\HomePC\Pictures\Screenshots\GIT VERSION.png
+![alt text](<GIT VERSION.png>)
 
 
 ## 2\. Check Project Location
@@ -19,15 +19,14 @@ c:\Users\HomePC\Pictures\Screenshots\GIT VERSION.png
 Write-Host "`n--- PROJECT LOCATION ---" -ForegroundColor Green
 Get-Location
 ```
-
-c:\Users\HomePC\Pictures\Screenshots\project location.png
+![alt text](<project location.png>)
 
 ## 3\. Initialize Git Repository
 
 ```
 git init
 ```
-c:\Users\HomePC\Pictures\Screenshots\git init.png
+![alt text](<git init.png>)
 
 
 ## 4\. Configure Git Username and Email
@@ -46,8 +45,7 @@ Verify the configuration:
 git config user.name
 git config user.email
 ```
-
-c:\Users\HomePC\Pictures\Screenshots\git name,email init.png
+![alt text](<git name,email init.png>)
 ## 5\. Check Repository Status
 
 ```
@@ -55,7 +53,7 @@ Write-Host "`n--- REPOSITORY STATUS ---" -ForegroundColor Cyan
 git status
 ```
 
-c:\Users\HomePC\Pictures\Screenshots\git status.png
+![alt text](<git status.png>)
 
 
 ## 6\. Stage and Commit Files
@@ -65,7 +63,7 @@ git add .
 git commit -m "Initial commit"
 ```
 
-c:\Users\HomePC\Pictures\Screenshots\git add,commit.png
+![alt text](<git add,commit.png>)
 
 ## 7\. View Commit History
 
@@ -73,11 +71,9 @@ c:\Users\HomePC\Pictures\Screenshots\git add,commit.png
 Write-Host "`n--- COMMIT HISTORY ---" -ForegroundColor Cyan
 git log --oneline
 ```
-
-c:\Users\HomePC\Pictures\Screenshots\commit history.png
+![alt text](<commit history.png>)
 ## 8\. Project Folder
-c:\Users\HomePC\Pictures\Screenshots\PROJECT FOLDER.png
-
+![alt text](<PROJECT FOLDER.png>)
 
 
 ## Conclusion
